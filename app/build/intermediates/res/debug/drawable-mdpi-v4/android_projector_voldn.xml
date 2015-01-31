@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/projector_voldn_hit"
+          android:state_pressed="true" />
+    <item android:drawable="@drawable/projector_voldn" />
+</selector><!-- From: file:/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_voldn.xml -->

@@ -1,0 +1,70 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="@color/background"  >
+  
+   <ImageView  
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent" 
+        android:scaleType="center"
+        android:src="@drawable/apple_bg" 
+        />
+  
+<Button
+android:background="@drawable/android_apple_volup"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="26px"
+android:layout_y="10px"
+android:id="@+id/apple_volup"/>
+
+<Button
+android:background="@drawable/android_apple_voldn"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="26px"
+android:layout_y="100px"
+android:id="@+id/apple_voldn"/>
+
+<Button
+android:background="@drawable/android_apple_menu"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="121px"
+android:layout_y="10px"
+android:id="@+id/apple_menu"/>
+
+<Button
+android:background="@drawable/android_apple_play"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="121px"
+android:layout_y="100px"
+android:id="@+id/apple_play"/>
+
+<Button
+android:background="@drawable/android_apple_next"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="216px"
+android:layout_y="10px"
+android:id="@+id/apple_next"/>
+
+<Button
+android:background="@drawable/android_apple_prev"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="216px"
+android:layout_y="100px"
+android:id="@+id/apple_prev"/>
+
+<Button android:text="Back"
+android:id="@+id/Button02"
+android:layout_width="60px"
+android:textSize="18px" 
+android:layout_height="55px" 
+android:layout_y="359px" android:layout_x="26px"/>
+
+</AbsoluteLayout>
+<!-- From: file:/Users/markfazzio/Developer/Redmote/app/src/main/res/layout/apple.xml -->

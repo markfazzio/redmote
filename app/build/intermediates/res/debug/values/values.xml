@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/markfazzio/Developer/Redmote/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="background">#3500ffff</color>
+    <!-- From: file:/Users/markfazzio/Developer/Redmote/app/src/main/res/values/colors2.xml -->
+    <eat-comment />
+
+    <color name="background2">#3500ffff</color>
+    <!-- From: file:/Users/markfazzio/Developer/Redmote/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="about_info">About Redmote Application\n\nVersion: 1.0\nAndroid SDK Version: 2.1\nCreated By: Mark Fazzio\n3D Renderings: Dominick Bizzarri\n\nAbout Redmote Module\n\nOutput Voltage: 4.5v\nLED Wavelength: 940nm\nBattery Replacement: enercell #317 (x3)\nCircuit: "All About Circuits" forum\nSpecial Thanks: "hobbyist"\n\nContact Info\n\nMark Fazzio\nmark@markfazzio.com</string>
+    <string name="app_name">Redmote</string>
+    <string name="codes_info">Redmote Universal Remote Codes\n\nRedmote uses the standard Phillips RC5 \ncodes -- for now. The next update will \ninclude a wider range of manufacturers \nto make Redmote even more universal!\n\n</string>
+
+</resources>

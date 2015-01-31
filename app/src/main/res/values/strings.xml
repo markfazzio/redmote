@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redmote</string>
+    <string name="about_info">About Redmote Application\n\nVersion: 1.0\nAndroid SDK Version: 2.1\nCreated By: Mark Fazzio\n3D Renderings: Dominick Bizzarri\n\nAbout Redmote Module\n\nOutput Voltage: 4.5v\nLED Wavelength: 940nm\nBattery Replacement: enercell #317 (x3)\nCircuit: "All About Circuits" forum\nSpecial Thanks: "hobbyist"\n\nContact Info\n\nMark Fazzio\nmark@markfazzio.com</string>
+	<string name="codes_info">Redmote Universal Remote Codes\n\nRedmote uses the standard Phillips RC5 \ncodes -- for now. The next update will \ninclude a wider range of manufacturers \nto make Redmote even more universal!\n\n</string>
+</resources>

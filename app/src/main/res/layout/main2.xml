@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="@color/background"  >
+
+   <ImageView  
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent" 
+    
+        android:scaleType="center"
+        android:src="@drawable/blank_bg" 
+        />
+
+
+    <TextView
+    
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:textColor="#FFFFFF"
+    android:textSize="14px"
+    android:layout_x="20px"
+    android:layout_y="20px"
+    android:typeface="sans"
+    android:textStyle="bold"
+    android:text="@string/about_info" />
+    
+    
+
+       <Button android:text="Back to Controller"
+        android:id="@+id/Button02"
+         android:layout_width="250px"
+        android:textSize="18px" 
+        android:layout_height="55px" 
+        android:layout_y="347px" 
+        android:layout_x="33px">
+       
+    </Button>    
+
+</AbsoluteLayout>

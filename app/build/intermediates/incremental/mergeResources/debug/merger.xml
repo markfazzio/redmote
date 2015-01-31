@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/markfazzio/Developer/Redmote/app/src/main/res" >
+            <file
+                name="icon"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="about_bg"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/about_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_apple_menu"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_apple_menu.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_apple_next"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_apple_next.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_apple_play"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_apple_play.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_apple_prev"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_apple_prev.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_apple_voldn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_apple_voldn.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_apple_volup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_apple_volup.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button0"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button0.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button1"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button1.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button2"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button2.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button3"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button3.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button4"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button4.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button5"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button5.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button6"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button6.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button7"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button7.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button8"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button8.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button9"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button9.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button_chnup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button_chnup.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button_codes"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button_codes.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button_info"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button_info.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button_input"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button_input.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button_voldn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button_voldn.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button_volup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button_volup.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_button_web"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_button_web.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_down"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_down.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_left"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_left.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_magdn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_magdn.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_magup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_magup.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_pwr"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_pwr.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_pwr_off"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_pwr_off.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_right"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_right.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_up"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_up.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_voldn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_voldn.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_projector_volup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_projector_volup.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="android_pwr_button"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/android_pwr_button.xml"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_bg"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_menu"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_menu.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_menu_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_menu_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_next"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_next.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_next_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_next_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_play"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_play.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_play_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_play_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_prev"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_prev.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_prev_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_prev_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_voldn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_voldn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_voldn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_voldn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_volup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_volup.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple_volup_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/apple_volup_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="blank_bg"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/blank_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="codes_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/codes_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="codes_btn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/codes_btn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="info_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/info_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="info_btn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/info_btn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_bg"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_down"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_down.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_down_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_down_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_left"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_left.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_left_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_left_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_magdn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_magdn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_magdn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_magdn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_magup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_magup.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_magup_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_magup_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_pwr"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_pwr.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_pwr_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_pwr_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_pwroff"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_pwroff.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_pwroff_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_pwroff_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_right"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_right.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_right_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_right_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_up"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_up.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_up_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_up_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_voldn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_voldn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_voldn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_voldn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_volup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_volup.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="projector_volup_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/projector_volup_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn0"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn0.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn0_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn0_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn1"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn1.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn2"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn2.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn3"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn3.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn4"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn4.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn5"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn5.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn6"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn6.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn7"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn7.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn8"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn8.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn9"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_1_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_1_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_2_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_2_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_3_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_3_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_4_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_4_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_5_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_5_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_6_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_6_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_7_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_7_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_8_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_8_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_9_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_9_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_btn_input_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_btn_input_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_chnup_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_chnup_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_chnup_btn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_chnup_btn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_input_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_input_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_pwr_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_pwr_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_pwr_btn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_pwr_btn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_splash"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_splash.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_voldn_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_voldn_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_voldn_btn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_voldn_btn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_volup_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_volup_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redmote_volup_btn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/redmote_volup_btn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="remote_bg1"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/remote_bg1.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="web_btn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/web_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="web_btn_hit"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/drawable-mdpi/web_btn_hit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="apple"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/layout/apple.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main2"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/layout/main2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main3"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/layout/main3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mainweb"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/layout/mainweb.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="projector"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/layout/projector.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="apple_menu"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/apple_menu.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="apple_next"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/apple_next.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="apple_play"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/apple_play.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="apple_prev"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/apple_prev.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="apple_voldn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/apple_voldn.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="apple_volup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/apple_volup.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_0"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_0.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_2"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_2.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_3"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_3.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_4"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_4.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_5"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_5.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_6"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_6.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_7"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_7.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_8"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_8.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="btn_9"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/btn_9.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="chndn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/chndn.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="chnup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/chnup.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="proj_poweroff"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/proj_poweroff.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="proj_pwr"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/proj_pwr.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="pwr"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/pwr.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="samsung_pwr"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/samsung_pwr.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="voldn"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/voldn.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="westinghouse_btn1"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/westinghouse_btn1.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="westinghouse_input"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/westinghouse_input.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="westinghouse_power"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/westinghouse_power.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="westinghouse_pwr"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/westinghouse_pwr.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="westinghouse_volup"
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/raw/westinghouse_volup.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="background" >#3500ffff
+                </color>
+            </file>
+            <file
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/values/colors2.xml"
+                qualifiers="" >
+                <color name="background2" >#3500ffff
+                </color>
+            </file>
+            <file
+                path="/Users/markfazzio/Developer/Redmote/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="codes_info" >Redmote Universal Remote Codes\n\nRedmote uses the standard Phillips RC5 \ncodes -- for now. The next update will \ninclude a wider range of manufacturers \nto make Redmote even more universal!\n\n
+                </string>
+                <string name="about_info" >About Redmote Application\n\nVersion: 1.0\nAndroid SDK Version: 2.1\nCreated By: Mark Fazzio\n3D Renderings: Dominick Bizzarri\n\nAbout Redmote Module\n\nOutput Voltage: 4.5v\nLED Wavelength: 940nm\nBattery Replacement: enercell #317 (x3)\nCircuit: "All About Circuits" forum\nSpecial Thanks: "hobbyist"\n\nContact Info\n\nMark Fazzio\nmark@markfazzio.com
+                </string>
+                <string name="app_name" >Redmote
+                </string>
+            </file>
+        </source>
+        <source path="/Users/markfazzio/Developer/Redmote/app/build/generated/res/rs/debug" />
+        <source path="/Users/markfazzio/Developer/Redmote/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/markfazzio/Developer/Redmote/app/src/debug/res" />
+    </dataSet>
+
+</merger>

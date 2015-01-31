@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:background="@color/background"  >
+
+<ImageView  
+android:layout_width="fill_parent" 
+android:layout_height="fill_parent" 
+android:scaleType="center"
+android:src="@drawable/projector_bg" />
+        
+<Button
+android:background="@drawable/android_projector_pwr"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="216px"
+android:layout_y="10px"
+android:id="@+id/proj_pwr"/>
+
+<Button
+android:background="@drawable/android_projector_pwr_off"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="216px"
+android:layout_y="100px"
+android:id="@+id/proj_poweroff"/>
+
+<Button
+android:background="@drawable/android_projector_volup"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="26px"
+android:layout_y="10px"
+android:id="@+id/proj_volup"/>
+
+<Button
+android:background="@drawable/android_projector_voldn"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="26px"
+android:layout_y="100px"
+android:id="@+id/proj_voldn"/>
+
+<Button
+android:background="@drawable/android_projector_magup"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="121px"
+android:layout_y="10px"
+android:id="@+id/proj_magup"/>
+
+<Button
+android:background="@drawable/android_projector_magdn"
+android:layout_width="79px"
+android:layout_height="79px"
+android:layout_x="121px"
+android:layout_y="100px"
+android:id="@+id/proj_magdn"/>
+
+<Button
+android:background="@drawable/android_projector_right"
+android:layout_width="70px"
+android:layout_height="70px"
+android:layout_x="195px"
+android:layout_y="268px"
+android:id="@+id/proj_right"/>
+
+<Button
+android:background="@drawable/android_projector_left"
+android:layout_width="70px"
+android:layout_height="70px"
+android:layout_x="55px"
+android:layout_y="268px"
+android:id="@+id/proj_left"/>
+
+<Button
+android:background="@drawable/android_projector_up"
+android:layout_width="70px"
+android:layout_height="70px"
+android:layout_x="125px"
+android:layout_y="197px"
+android:id="@+id/proj_up"/>
+
+<Button
+android:background="@drawable/android_projector_down"
+android:layout_width="70px"
+android:layout_height="70px"
+android:layout_x="125px"
+android:layout_y="340px"
+android:id="@+id/proj_down"/>
+
+<Button android:text="Back"
+android:id="@+id/Button02"
+android:layout_width="60px"
+android:textSize="18px" 
+android:layout_height="55px" 
+android:layout_y="359px" android:layout_x="26px"/>
+
+<Button android:text="Next"
+android:id="@+id/next_play"
+android:layout_width="60px"
+android:textSize="18px" 
+android:layout_height="55px" 
+android:layout_y="359px" android:layout_x="238px"/>
+
+</AbsoluteLayout><!-- From: file:/Users/markfazzio/Developer/Redmote/app/src/main/res/layout/projector.xml -->
