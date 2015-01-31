@@ -1,42 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="music.redmote">
+    package="music.player" >
 
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:icon="@drawable/icon"
-        android:label="Redmote">
-
+        android:label="Redmote" >
         <activity
-            android:name=".TVRemote"
+            android:name="music.redmote.TVRemote"
             android:label="@string/app_name"
-            android:screenOrientation="portrait"
-            android:launchMode="standard">
+            android:launchMode="standard"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.DEFAULT" />
+
                 <category android:name="android.intent.category.VIEW" />
             </intent-filter>
         </activity>
-
         <activity
-            android:name=".AppleRemote"
+            android:name="music.redmote.AppleRemote"
             android:label="@string/app_name"
-            android:screenOrientation="portrait"
-            android:launchMode="standard">
+            android:launchMode="standard"
+            android:screenOrientation="portrait" >
         </activity>
-
         <activity
-            android:name=".DownloadCodesWebView"
-            android:label="@string/app_name">
+            android:name="music.redmote.DownloadCodesWebView"
+            android:label="@string/app_name" >
         </activity>
-
         <activity
-            android:name=".ProjectorRemote"
+            android:name="music.redmote.ProjectorRemote"
             android:label="@string/app_name"
-            android:screenOrientation="portrait"
-            android:launchMode="standard">
+            android:launchMode="standard"
+            android:screenOrientation="portrait" >
         </activity>
-
     </application>
-</manifest> 
+
+</manifest>
